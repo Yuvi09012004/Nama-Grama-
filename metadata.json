@@ -1,0 +1,8 @@
+{
+  "name": "Remix Namma Grama Nayaka",
+  "description": "Karnataka\u0027s Ward-Led Grama Swaraj Movement to empower aspiring Ward Members and strengthen grassroots governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,750 @@
+{
+  "logoUrl": "/src/assets/images/official_namma_grama_logo_1785490337996.jpg",
+  "faviconUrl": "/src/assets/images/official_namma_grama_logo_1785490337996.jpg",
+  "seo": {
+    "title": "Namma Grama Nayaka - Empowering Karnataka Youth in Ward Sabhas & Gram Panchayats",
+    "description": "Grassroots leadership movement inspiring and equipping Karnataka's youth to become active Ward Members, strengthening Grama Swaraj across all 31 districts.",
+    "keywords": "Namma Grama Nayaka, Karnataka Ward Member, Gram Panchayat, Ward Sabha, Rural Leadership, Grama Swaraj",
+    "openGraphImage": "/src/assets/images/official_namma_grama_logo_1785490337996.jpg",
+    "canonicalUrl": "https://nammagramanayaka.org"
+  },
+  "hero": {
+    "taglineKn": "ಯುವಕರೇ ಗ್ರಾಮದ ಭವಿಷ್ಯ - ಯುವಕರೇ ಮುನ್ನಡೆಸುವರು",
+    "taglineEn": "Youth Must Lead • Karnataka Rural Leadership Movement",
+    "titleKn": "ವಾರ್ಡ್ ಮಟ್ಟದಿಂದ ಗ್ರಾಮ ಸ್ವರಾಜ್ಯ ಕಟ್ಟೋಣ!",
+    "titleEn": "Building Grama Swaraj starting from Every Ward!",
+    "subtitleKn": "ನಿಮ್ಮ ಗ್ರಾಮ ಪಂಚಾಯತಿಯ ವಾರ್ಡ್ ಸದಸ್ಯರಾಗಿ (Ward Member) ಸೇವೆ ಸಲ್ಲಿಸಿ, ಗ್ರಾಮದ ಕುಡಿಯುವ ನೀರು, ರಸ್ತೆ, ನೈರ್ಮಲ್ಯ ಮತ್ತು ಮೂಲಸೌಕರ್ಯಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಿ.",
+    "subtitleEn": "Step forward as a candidate for your Gram Panchayat Ward Member post. Drive local solutions for clean water, roads, sanitation, and village empowerment.",
+    "heroBgUrl": "/src/assets/images/karnataka_village_hero_1785475191493.jpg",
+    "ctaRegisterTextKn": "ವಾರ್ಡ್ ಸದಸ್ಯ ಆಕಾಂಕ್ಷಿಯಾಗಿ ನೋಂದಾಯಿಸಿ",
+    "ctaRegisterTextEn": "Register as Prospective Ward Member",
+    "ctaAboutTextKn": "ಯೋಜನೆಯ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ",
+    "ctaAboutTextEn": "Learn About the Initiative"
+  },
+  "navigation": [
+    {
+      "id": "about",
+      "labelKn": "ಯೋಜನೆಯ ಬಗ್ಗೆ",
+      "labelEn": "About Initiative",
+      "href": "#about",
+      "visible": true,
+      "order": 1
+    },
+    {
+      "id": "why",
+      "labelKn": "ಏಕೆ ವಾರ್ಡ್ ಸದಸ್ಯ?",
+      "labelEn": "Why Ward Member?",
+      "href": "#why",
+      "visible": true,
+      "order": 2
+    },
+    {
+      "id": "modules",
+      "labelKn": "ಕಲಿಕಾ ತರಬೇತಿ",
+      "labelEn": "Training Modules",
+      "href": "#modules",
+      "visible": true,
+      "order": 3
+    },
+    {
+      "id": "journey",
+      "labelKn": "ನಾಯಕತ್ವ ಪಯಣ",
+      "labelEn": "Leadership Journey",
+      "href": "#journey",
+      "visible": true,
+      "order": 4
+    },
+    {
+      "id": "gallery",
+      "labelKn": "ಚಿತ್ರಸಂಪುಟ",
+      "labelEn": "Gallery",
+      "href": "#gallery",
+      "visible": true,
+      "order": 5
+    },
+    {
+      "id": "faqs",
+      "labelKn": "ಮಾಹಿತಿ / FAQs",
+      "labelEn": "FAQs",
+      "href": "#faqs",
+      "visible": true,
+      "order": 6
+    }
+  ],
+  "about": {
+    "badgeKn": "ನಮ್ಮ ಗ್ರಾಮ ನಾಯಕ ಪರಿಕಲ್ಪನೆ",
+    "badgeEn": "Grassroots Democracy Vision",
+    "titleKn": "ವಾರ್ಡ್ ಸದಸ್ಯರ ಮಹತ್ವ ಮತ್ತು ನಮ್ಮ ಗ್ರಾಮ ನಾಯಕ ಚಳವಳಿ",
+    "titleEn": "Why Ward Members Hold the Key to Village Transformation",
+    "descriptionKn": "ಕರ್ನಾಟಕದ ಗ್ರಾಮ ಪಂಚಾಯತಿಗಳಲ್ಲಿ 90,000ಕ್ಕೂ ಹೆಚ್ಚು ವಾರ್ಡ್ ಸದಸ್ಯ ಹುದ್ದೆಗಳಿವೆ. ಪ್ರತಿಯೊಂದು ವಾರ್ಡ್‌ನ ಅಭಿವೃದ್ಧಿಯು ಒಬ್ಬ ಸಕ್ರಿಯ, ಜಾಗರೂಕ ವಾರ್ಡ್ ಸದಸ್ಯರಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ.",
+    "descriptionEn": "Karnataka's Gram Panchayats consist of over 90,000 Ward Members. True decentralized development happens when passionate, educated youth enter Ward Sabhas.",
+    "missionTitleKn": "ನಮ್ಮ ಧ್ವೇಯ (Mission)",
+    "missionTitleEn": "Our Mission",
+    "missionTextKn": "ಕರ್ನಾಟಕದ ಪ್ರತಿಯೊಂದು ಗ್ರಾಮ ಪಂಚಾಯತಿ ವಾರ್ಡ್‌ನಿಂದ ಪ್ರಾಮಾಣಿಕ, ಸೇವಾ ಮನೋಭಾವದ ಯುವಕರನ್ನು ಗುರುತಿಸಿ ತರಬೇತಿ ನೀಡಿ ನಾಯಕರನ್ನಾಗಿ ರೂಪಿಸುವುದು.",
+    "missionTextEn": "To identify, mentor, and empower honest, dedicated youth across Karnataka's 31 districts to contest and succeed as Ward Members.",
+    "visionTitleKn": "ನಮ್ಮ ದೂರದೃಷ್ಟಿ (Vision)",
+    "visionTitleEn": "Our Vision",
+    "visionTextKn": "ಪಾರದರ್ಶಕ, ಸಕ್ರಿಯ ಮತ್ತು ಜನಕೇಂದ್ರಿತ ವಾರ್ಡ್ ಸಭೆಗಳ ಮೂಲಕ ಕರ್ನಾಟಕದ ಪ್ರತಿಯೊಂದು ಗ್ರಾಮವನ್ನು 'ಸ್ವಾವಲಂಬಿ ಮಾದರಿ ಗ್ರಾಮ'ವನ್ನಾಗಿ ಪರಿವರ್ತಿಸುವುದು.",
+    "visionTextEn": "Transforming every Karnataka village into a self-reliant model Grama Swaraj through active, transparent Ward Sabhas.",
+    "objectives": [
+      {
+        "id": "obj-1",
+        "titleKn": "ಸ್ಥಳೀಯ ನಾಯಕತ್ವ ನಿರ್ಮಾಣ",
+        "titleEn": "Grassroots Leadership Development",
+        "descKn": "ಗ್ರಾಮೀಣ ಯುವಕರಲ್ಲಿ ನಾಯಕತ್ವ ಗುಣ ಮತ್ತು ಪಂಚಾಯತ್ ರಾಜ್ ಕಾಯ್ದೆಯ ಅರಿವು ಮೂಡಿಸುವುದು.",
+        "descEn": "Building constitutional literacy and governance skills among rural youth."
+      },
+      {
+        "id": "obj-2",
+        "titleKn": "ಸಕ್ರಿಯ ವಾರ್ಡ್ ಸಭೆಗಳು",
+        "titleEn": "Active & Transparent Ward Sabhas",
+        "descKn": "ವಾರ್ಡ್ ಸಭೆಗಳನ್ನು ನಿಯಮಿತವಾಗಿ ನಡೆಸಿ ಗ್ರಾಮಸ್ಥರ ನೈಜ ಸಮಸ್ಯೆಗಳನ್ನು ಬಗೆಹರಿಸುವುದು.",
+        "descEn": "Ensuring democratic citizen participation in local planning and resource allocation."
+      },
+      {
+        "id": "obj-3",
+        "titleKn": "ಮೂಲಸೌಕರ್ಯ ಮೇಲ್ವಿಚಾರಣೆ",
+        "titleEn": "Infrastructure & Sanitation Tracking",
+        "descKn": "ಕುಡಿಯುವ ನೀರು, ರಸ್ತೆ, ಬೀದಿ ದೀಪ ಮತ್ತು ನೈರ್ಮಲ್ಯ ಕಾಮಗಾರಿಗಳ ಗುಣಮಟ್ಟ ಕಾಯ್ದುಕೊಳ್ಳುವುದು.",
+        "descEn": "Monitoring delivery of essential civic services, water, roads, and sanitation."
+      },
+      {
+        "id": "obj-4",
+        "titleKn": "ಯುವಕರ ಸಬಲೀಕರಣ",
+        "titleEn": "Youth & Women Empowerment",
+        "descKn": "ಮಹಿಳೆಯರು ಮತ್ತು ಯುವಕರ ಭಾಗವಹಿಸುವಿಕೆಯನ್ನು ಪ್ರೋತ್ಸಾಹಿಸಿ ಗ್ರಾಮ ಸ್ವಾವಲಂಬನೆ ತರುವುದು.",
+        "descEn": "Fostering inclusive representation of youth and women in local council decision-making."
+      }
+    ]
+  },
+  "announcements": [
+    {
+      "id": "ann-1",
+      "titleKn": "ವಾರ್ಡ್ ಸದಸ್ಯ ಆಕಾಂಕ್ಷಿ ನಾಯಕರ ತರಬೇತಿ ಶಿಬಿರ - 2026",
+      "titleEn": "Prospective Ward Member Leadership Training Workshop 2026",
+      "date": "2026-08-15",
+      "category": "Workshop",
+      "contentKn": "ಕರ್ನಾಟಕದ ಎಲ್ಲಾ ಜಿಲ್ಲೆಗಳ ಸಕ್ರಿಯ ಯುವಕರಿಗಾಗಿ ವಾರ್ಡ್ ಸಭೆ ಕಾಯ್ದೆ ಮತ್ತು ಪಂಚಾಯತ್ ಆಡಳಿತ ತರಬೇತಿ.",
+      "contentEn": "Statewide practical training on Karnataka Panchayat Raj Act, Ward Sabha rules, and local campaigning.",
+      "active": true
+    },
+    {
+      "id": "ann-2",
+      "titleKn": "ಉಚಿತ ತರಬೇತಿ ಕೈಪಿಡಿ ಬಿಡುಗಡೆ",
+      "titleEn": "Free Grama Swaraj Candidate Handbook Released",
+      "date": "2026-07-20",
+      "category": "Publication",
+      "contentKn": "ವಾರ್ಡ್ ಸದಸ್ಯರ ಹಕ್ಕುಗಳು, ಅಧಿಕಾರ ಮತ್ತು ಅನುದಾನಗಳ ಕುರಿತಾದ ಸಂಪೂರ್ಣ ಉಚಿತ ಮಾರ್ಗದರ್ಶಿ ಪುಸ್ತಕ.",
+      "contentEn": "Downloadable practical guide covering Ward Member powers, funds utilization, and Gram Sabha protocols.",
+      "active": true
+    }
+  ],
+  "leadershipMessages": [
+    {
+      "id": "lead-1",
+      "nameKn": "ಡಾ. ಹೆಚ್. ಜಿಕೆ. ಗೌಡ",
+      "nameEn": "Dr. H. G. Gowda",
+      "roleKn": "ಪಂಚಾಯತ್ ರಾಜ್ ತಜ್ಞರು & ಹಿರಿಯ ಮಾರ್ಗದರ್ಶಕರು",
+      "roleEn": "Panchayat Raj Governance Mentor",
+      "messageKn": "ಪ್ರಜಾಪ್ರಭುತ್ವದ ಅಡಿಪಾಯ ವಾರ್ಡ್ ಸಭೆಯಲ್ಲಿದೆ. ಯುವಕರು ರಾಜಕೀಯಕ್ಕೆ ಬರಲು ವಾರ್ಡ್ ಸದಸ್ಯ ಹುದ್ದೆಯೇ ಅತ್ಯುತ್ತಮ ಪ್ರವೇಶ ದ್ವಾರ.",
+      "messageEn": "The foundation of Indian democracy lies in the Ward Sabha. Educated youth stepping into Ward councils is the true key to rural renewal.",
+      "photoUrl": "/src/assets/images/rural_community_lead_1785475211796.jpg"
+    }
+  ],
+  "stats": {
+    "villagesCovered": 1250,
+    "activeParticipants": 4850,
+    "communityEvents": 180,
+    "autoCountRegistrations": true
+  },
+  "gallery": [
+    {
+      "id": "gal-1",
+      "url": "/src/assets/images/karnataka_village_hero_1785475191493.jpg",
+      "titleKn": "ಗ್ರಾಮ ಪಂಚಾಯತಿ ವಾರ್ಡ್ ಸಭೆ",
+      "titleEn": "Grama Panchayat Ward Sabha",
+      "descKn": "ಆಲದ ಮರದ ಕೆಳಗೆ ಸಾರ್ವಜನಿಕರ ಸಮಸ್ಯೆಗಳನ್ನು ಚರ್ಚಿಸುತ್ತಿರುವ ಗ್ರಾಮಸ್ಥರು.",
+      "descEn": "Community gathering under banyan tree discussing local water & sanitation priorities.",
+      "category": "Sabha"
+    },
+    {
+      "id": "gal-2",
+      "url": "/src/assets/images/rural_community_lead_1785475211796.jpg",
+      "titleKn": "ಯುವ ನಾಯಕತ್ವ ಚಳವಳಿ",
+      "titleEn": "Youth Leadership Movement",
+      "descKn": "ಗ್ರಾಮ ಹಿರಿಯರೊಂದಿಗೆ ಸಮಾಲೋಚನೆ ನಡೆಸುತ್ತಿರುವ ಯುವ ಆಕಾಂಕ್ಷಿಗಳು.",
+      "descEn": "Aspiring Ward Members collaborating with village elders for inclusive planning.",
+      "category": "Leadership"
+    },
+    {
+      "id": "gal-3",
+      "url": "/src/assets/images/official_namma_grama_logo_1785490337996.jpg",
+      "titleKn": "ನಮ್ಮ ಗ್ರಾಮ ನಾಯಕ ಚಿಹ್ನೆ",
+      "titleEn": "Namma Grama Nayaka Emblem",
+      "descKn": "ಕರ್ನಾಟಕದ ಗ್ರಾಮ ಸ್ವರಾಜ್ಯ ಚಳವಳಿಯ ನೈಜ ಸಂಕೇತ.",
+      "descEn": "Official Emblem of Karnataka's Ward-led Grama Swaraj Movement.",
+      "category": "Emblem"
+    }
+  ],
+  "faqs": [
+    {
+      "id": "faq-1",
+      "qKn": "ವಾರ್ಡ್ ಸದಸ್ಯರಾಗಲು ಕನಿಷ್ಠ ವಯಸ್ಸು ಮತ್ತು ಅರ್ಹತೆ ಏನು?",
+      "qEn": "What is the minimum age and qualification to contest as a Ward Member?",
+      "aKn": "ವಾರ್ಡ್ ಸದಸ್ಯರಾಗಲು ಕನಿಷ್ಠ 21 ವರ್ಷ ವಯಸ್ಸಾಗಿರಬೇಕು (ನಮ್ಮ ಗ್ರಾಮ ನಾಯಕ ಚಳವಳಿಯಲ್ಲಿ 18 ವರ್ಷ ಮೇಲ್ಪಟ್ಟ ಯುವಕರು ತರಬೇತಿಗೆ ನೋಂದಾಯಿಸಿಕೊಳ್ಳಬಹುದು). ಭಾರತೀಯ ಪ್ರಜೆಯಾಗಿರಬೇಕು ಮತ್ತು ಸಂಬಂಧಪಟ್ಟ ಗ್ರಾಮ ಪಂಚಾಯತಿ ವಾರ್ಡ್‌ನ ಮತದಾರರ ಪಟ್ಟಿಯಲ್ಲಿ ಹೆಸರಿರಬೇಕು.",
+      "aEn": "To contest Gram Panchayat Ward elections, the candidate must be at least 21 years old and a registered voter in that specific Ward. Our training portal registers youth aged 18+ to prepare them for leadership.",
+      "category": "Eligibility"
+    },
+    {
+      "id": "faq-2",
+      "qKn": "ವಾರ್ಡ್ ಸದಸ್ಯರ ಮುಖ್ಯ ಕರ್ತವ್ಯಗಳು ಹಾಗೂ ಅಧಿಕಾರಗಳೇನು?",
+      "qEn": "What are the core duties and powers of a Ward Member?",
+      "aKn": "ತಮ್ಮ ವಾರ್ಡ್‌ನ ಕುಡಿಯುವ ನೀರು, ರಸ್ತೆ, ಚರಂಡಿ, ಬೀದಿ ದೀಪ, ಶಾಲೆಯ ಮೂಲಸೌಕರ್ಯ, ಗ್ರಾಮ ಸಭೆಯ ನಡಾವಳಿಗಳನ್ನು ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡುವುದು ಮತ್ತು ವಾರ್ಡ್‌ನ ಅಭಿವೃದ್ಧಿ ಅನುದಾನವನ್ನು ನ್ಯಾಯಯುತವಾಗಿ ಹಂಚಿಕೆ ಮಾಡುವುದು ವಾರ್ಡ್ ಸದಸ್ಯರ ಪ್ರಮುಖ ಕರ್ತವ್ಯವಾಗಿದೆ.",
+      "aEn": "Ward Members lead Ward Sabhas, represent citizen needs, oversee drinking water schemes, roads, sanitation, streetlights, and vote on Panchayat budget resolutions.",
+      "category": "Powers"
+    },
+    {
+      "id": "faq-3",
+      "qKn": "ನಮ್ಮ ಗ್ರಾಮ ನಾಯಕ ತರಬೇತಿಯಲ್ಲಿ ಏನೆಲ್ಲಾ ಕಲಿಯಬಹುದು?",
+      "qEn": "What will I learn in the Namma Grama Nayaka training module?",
+      "aKn": "ಕರ್ನಾಟಕ ಪಂಚಾಯತ್ ರಾಜ್ ಕಾಯ್ದೆ 1993, ವಾರ್ಡ್ ಸಭೆ ನಿರ್ವಹಣೆ, 15ನೇ ಹಣಕಾಸು ಆಯೋಗದ ಅನುದಾನ ಬಳಕೆಯ ನಿಯಮಗಳು, ಚುನಾವಣೆ ತಂತ್ರಗಳು ಮತ್ತು ಗ್ರಾಮ ವಿಕಾಸ ಯೋಜನೆ (GPDP) ತಯಾರಿಕೆ ಕುರಿತು ಸಮಗ್ರ ಕಲಿಕೆ ಸಿಗಲಿದೆ.",
+      "aEn": "Comprehensive legal & administrative training on the Karnataka Panchayat Raj Act, Ward Sabha rules, GPDP village planning, campaign strategies, and audit procedures.",
+      "category": "Training"
+    },
+    {
+      "id": "faq-4",
+      "qKn": "ಈ ತರಬೇತಿ ಉಚಿತವೇ?",
+      "qEn": "Is this candidate portal and training free of cost?",
+      "aKn": "ಹೌದು! ಯುವಕರನ್ನು ರಾಜಕೀಯ ಹಾಗೂ ಗ್ರಾಮ ಸೇವೆಯಲ್ಲಿ ಸಕ್ರಿಯಗೊಳಿಸಲು ನಮ್ಮ ಗ್ರಾಮ ನಾಯಕ ವೇದಿಕೆಯು ಸಂಪೂರ್ಣ ಉಚಿತ ತರಬೇತಿ ಹಾಗೂ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತದೆ.",
+      "aEn": "Yes! Namma Grama Nayaka is a non-profit civic leadership enablement portal. All training resources and candidate registration are completely free.",
+      "category": "Cost"
+    },
+    {
+      "id": "faq-5",
+      "qKn": "ನೋಂದಾಯಿಸಿದ ನಂತರ ಮುಂದಿನ ಪ್ರಕ್ರಿಯೆ ಏನು?",
+      "qEn": "What happens after I submit my registration?",
+      "aKn": "ನಿಮ್ಮ ಅರ್ಜಿಯನ್ನು ಪರಿಶೀಲಿಸಿದ ನಂತರ ನಮ್ಮ ಜಿಲ್ಲಾ ಮಾರ್ಗದರ್ಶಕರು ನಿಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ ವಾರ್ಡ್ ನಾಯಕತ್ವ ವಾಟ್ಸಾಪ್ ಗುಂಪಿಗೆ ಸೇರಿಸುತ್ತಾರೆ ಮತ್ತು ಜಿಲ್ಲಾವಾರು ತರಬೇತಿ ದಿನಾಂಕಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳುತ್ತಾರೆ.",
+      "aEn": "Our district team verifies your application, adds you to your district's Ward Leadership circle, and shares workshop dates, study materials, and mentor connects.",
+      "category": "Process"
+    }
+  ],
+  "dropdowns": {
+    "religions": [
+      "Hindu",
+      "Muslim",
+      "Christian",
+      "Jain",
+      "Buddhist",
+      "Sikh",
+      "Other",
+      "Prefer not to say"
+    ],
+    "educationQualifications": [
+      "SSLC / 10th Standard",
+      "PUC / 12th Standard",
+      "Diploma",
+      "Graduate / Bachelor's Degree",
+      "Post Graduate / Master's Degree",
+      "Doctorate / PhD",
+      "Other"
+    ],
+    "occupations": [
+      "Agriculture / Farming",
+      "Self-Employed / Local Business",
+      "Private Service / Employee",
+      "Government Service",
+      "Social Worker / Community Leader",
+      "Student",
+      "Homemaker",
+      "Professional (Teacher, Doctor, Engineer, Advocate)",
+      "Other"
+    ],
+    "karnatakaDistricts": [
+      {
+        "nameEn": "Bagalkote",
+        "nameKn": "ಬಾಗಲಕೋಟೆ",
+        "nameTe": "బాగాకోట",
+        "talukas": [
+          "Bagalkote",
+          "Badami",
+          "Hungund",
+          "Ilkal",
+          "Jamkhandi",
+          "Mudhol",
+          "Rabkavi Banhatti"
+        ]
+      },
+      {
+        "nameEn": "Ballari (Bellary)",
+        "nameKn": "ಬಳ್ಳಾರಿ",
+        "nameTe": "బళ్లారి",
+        "talukas": [
+          "Ballari",
+          "Kampli",
+          "Kurugodu",
+          "Siruguppa",
+          "Sandur"
+        ]
+      },
+      {
+        "nameEn": "Belagavi (Belgaum)",
+        "nameKn": "ಬೆಳಗಾವಿ",
+        "nameTe": "బెళగావి",
+        "talukas": [
+          "Belagavi",
+          "Athani",
+          "Bailhongal",
+          "Chikkodi",
+          "Gokak",
+          "Hukkeri",
+          "Khanapur",
+          "Ramdurg",
+          "Raybag",
+          "Saundatti"
+        ]
+      },
+      {
+        "nameEn": "Bengaluru Rural",
+        "nameKn": "ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ",
+        "nameTe": "బెంగళూరు గ్రామీణ",
+        "talukas": [
+          "Devanahalli",
+          "Doddaballapura",
+          "Hosakote",
+          "Nelamangala"
+        ]
+      },
+      {
+        "nameEn": "Bengaluru Urban",
+        "nameKn": "ಬೆಂಗಳೂರು ನಗರ",
+        "nameTe": "బెంగళూరు అర్బన్",
+        "talukas": [
+          "Bengaluru East",
+          "Bengaluru North",
+          "Bengaluru South",
+          "Anekal",
+          "Yelahanka"
+        ]
+      },
+      {
+        "nameEn": "Bidar",
+        "nameKn": "ಬೀದರ್",
+        "nameTe": "బీదర్",
+        "talukas": [
+          "Bidar",
+          "Bhalki",
+          "Humnabad",
+          "Hulsur",
+          "Kamalnagar",
+          "Omerga",
+          " Aurad"
+        ]
+      },
+      {
+        "nameEn": "Chamarajanagar",
+        "nameKn": "ಚಾಮರಾಜನಗರ",
+        "nameTe": "చామరాజనగర్",
+        "talukas": [
+          "Chamarajanagar",
+          "Gundlupet",
+          "Kollegal",
+          "Yelandur",
+          "Hanur"
+        ]
+      },
+      {
+        "nameEn": "Chikkaballapura",
+        "nameKn": "ಚಿಕ್ಕಬಳ್ಳಾಪುರ",
+        "nameTe": "చిక్కబళ్ళాపురం",
+        "talukas": [
+          "Chikkaballapura",
+          "Bagepalli",
+          "Chintamani",
+          "Gauribidanur",
+          "Gudibanda",
+          "Sidlaghatta"
+        ]
+      },
+      {
+        "nameEn": "Chikkamagaluru",
+        "nameKn": "ಚಿಕ್ಕಮಗಳೂರು",
+        "nameTe": "చిక్కమగళూరు",
+        "talukas": [
+          "Chikkamagaluru",
+          "Bhadra",
+          "Kadur",
+          "Koppa",
+          "Mudigere",
+          "Narasimharajapura",
+          "Sringeri",
+          "Tarikere"
+        ]
+      },
+      {
+        "nameEn": "Chitradurga",
+        "nameKn": "ಚಿತ್ರದುರ್ಗ",
+        "nameTe": "చిత్రదుర్గం",
+        "talukas": [
+          "Chitradurga",
+          "Challakere",
+          "Hiriyur",
+          "Holalkere",
+          "Hosadurga",
+          "Molakalmuru"
+        ]
+      },
+      {
+        "nameEn": "Dakshina Kannada",
+        "nameKn": "ದಕ್ಷಿಣ ಕನ್ನಡ",
+        "nameTe": "దక్షిణ కన్నడ",
+        "talukas": [
+          "Mangaluru",
+          "Bantwal",
+          "Belthangady",
+          "Puttur",
+          "Sullia",
+          "Moodabidri",
+          "Kadaba"
+        ]
+      },
+      {
+        "nameEn": "Davanagere",
+        "nameKn": "ದಾವಣಗೆರೆ",
+        "nameTe": "దావణగెరె",
+        "talukas": [
+          "Davanagere",
+          "Harihar",
+          "Honnali",
+          "Jagamalur",
+          "Nyamathi",
+          "Channagiri"
+        ]
+      },
+      {
+        "nameEn": "Dharwad",
+        "nameKn": "ಧಾರವಾಡ",
+        "nameTe": "ధార్వాడ్",
+        "talukas": [
+          "Dharwad",
+          "Hubballi",
+          "Kalghatgi",
+          "Kundgol",
+          "Navalgund",
+          "Alnavar"
+        ]
+      },
+      {
+        "nameEn": "Gadag",
+        "nameKn": "ಗದುಗ",
+        "nameTe": "గదగ్",
+        "talukas": [
+          "Gadag",
+          "Gajendragad",
+          "Laxmeshwar",
+          "Mundargi",
+          "Nargund",
+          "Ron",
+          "Shirhatti"
+        ]
+      },
+      {
+        "nameEn": "Hassan",
+        "nameKn": "ಹಾಸನ",
+        "nameTe": "హాసన్",
+        "talukas": [
+          "Hassan",
+          "Alur",
+          "Arkalgud",
+          "Arsikere",
+          "Belur",
+          "Channarayapatna",
+          "Holenarasipura",
+          "Sakleshpur"
+        ]
+      },
+      {
+        "nameEn": "Haveri",
+        "nameKn": "ಹಾವೇರಿ",
+        "nameTe": "హావేరి",
+        "talukas": [
+          "Haveri",
+          "Byadgi",
+          "Hangal",
+          "Hirekerur",
+          "Ranibennur",
+          "Rattihalli",
+          "Savanur",
+          "Shiggaon"
+        ]
+      },
+      {
+        "nameEn": "Kalaburagi (Gulbarga)",
+        "nameKn": "ಕಲಬುರಗಿ",
+        "nameTe": "కలబురగి",
+        "talukas": [
+          "Kalaburagi",
+          "Afzalpur",
+          "Aland",
+          "Chincholi",
+          "Chitapur",
+          "Jevargi",
+          "Sedam",
+          "Kamalapur"
+        ]
+      },
+      {
+        "nameEn": "Kodagu",
+        "nameKn": "ಕೊಡಗು",
+        "nameTe": "కొడగు",
+        "talukas": [
+          "Madikeri",
+          "Somwarpet",
+          "Virajpet",
+          "Ponnampet",
+          "Kushalnagar"
+        ]
+      },
+      {
+        "nameEn": "Kolar",
+        "nameKn": "ಕೋಲಾರ",
+        "nameTe": "కోలార్",
+        "talukas": [
+          "Kolar",
+          "Bangarapet",
+          "Kolar Gold Fields (KGF)",
+          "Malur",
+          "Mulbagal",
+          "Srinivaspur"
+        ]
+      },
+      {
+        "nameEn": "Koppal",
+        "nameKn": "ಕೊಪ್ಪಳ",
+        "nameTe": "కొప్పల్",
+        "talukas": [
+          "Koppal",
+          "Gangavathi",
+          "Kushtagi",
+          "Yelburga",
+          "Kanakagiri",
+          "Karatagi"
+        ]
+      },
+      {
+        "nameEn": "Mandya",
+        "nameKn": "ಮಂಡ್ಯ",
+        "nameTe": "మండ్య",
+        "talukas": [
+          "Mandya",
+          "Maddur",
+          "Malavalli",
+          "Nagamangala",
+          "Pandavapura",
+          "KR Pet",
+          "Srirangapatna"
+        ]
+      },
+      {
+        "nameEn": "Mysuru (Mysore)",
+        "nameKn": "ಮೈಸೂರು",
+        "nameTe": "మైసూర్",
+        "talukas": [
+          "Mysuru",
+          "Hunsur",
+          "KR Nagar",
+          "Nanjangud",
+          "Piriyapatna",
+          "T Narasipura",
+          "HD Kote",
+          "Saragur"
+        ]
+      },
+      {
+        "nameEn": "Raichur",
+        "nameKn": "ರಾಯಚೂರು",
+        "nameTe": "రాయచూర్",
+        "talukas": [
+          "Raichur",
+          "Devadurga",
+          "Lingsugur",
+          "Manvi",
+          "Sindhanur",
+          "Maski",
+          "Sirwar"
+        ]
+      },
+      {
+        "nameEn": "Ramanagara",
+        "nameKn": "ರಾಮನಗರ",
+        "nameTe": "రామనగరం",
+        "talukas": [
+          "Ramanagara",
+          "Channapatna",
+          "Kanakapura",
+          "Magadi"
+        ]
+      },
+      {
+        "nameEn": "Shivamogga (Shimoga)",
+        "nameKn": "ಶಿವಮೊಗ್ಗ",
+        "nameTe": "శివమొగ్గ",
+        "talukas": [
+          "Shivamogga",
+          "Bhadravathi",
+          "Hosanagara",
+          "Sagar",
+          "Shikaripura",
+          "Soraba",
+          "Thirthahalli"
+        ]
+      },
+      {
+        "nameEn": "Tumakuru (Tumkur)",
+        "nameKn": "ತುಮಕೂರು",
+        "nameTe": "తుమకూరు",
+        "talukas": [
+          "Tumakuru",
+          "Chikkanayakanahalli",
+          "Gubbi",
+          "Koratagere",
+          "Kunigal",
+          "Madhugiri",
+          "Pavagada",
+          "Sira",
+          "Tiptur",
+          "Turuvekere"
+        ]
+      },
+      {
+        "nameEn": "Udupi",
+        "nameKn": "ಉಡುಪಿ",
+        "nameTe": "ఉడుపి",
+        "talukas": [
+          "Udupi",
+          "Brahmavar",
+          "Byndoor",
+          "Karkala",
+          "Kaup",
+          "Kundapura"
+        ]
+      },
+      {
+        "nameEn": "Uttara Kannada",
+        "nameKn": "ಉತ್ತರ ಕನ್ನಡ",
+        "nameTe": "ఉత్తర కన్నడ",
+        "talukas": [
+          "Karwar",
+          "Ankola",
+          "Bhatkal",
+          "Haliyal",
+          "Honnavar",
+          "Joida",
+          "Kumta",
+          "Mundgod",
+          "Siddapur",
+          "Sirsi",
+          "Yellapur"
+        ]
+      },
+      {
+        "nameEn": "Vijayanagara",
+        "nameKn": "ವಿಜಯನಗರ",
+        "nameTe": "విజయనగరం",
+        "talukas": [
+          "Hosapete",
+          "Harapanahalli",
+          "Hoovina Hadagali",
+          "Kudligi",
+          "Hagaribommanahalli",
+          "Kotturu"
+        ]
+      },
+      {
+        "nameEn": "Vijayapura (Bijapur)",
+        "nameKn": "ವಿಜಯಪುರ",
+        "nameTe": "విజయపుర",
+        "talukas": [
+          "Vijayapura",
+          "Babaleshwar",
+          "Basavana Bagewadi",
+          "Indi",
+          "Muddebihal",
+          "Sindgi",
+          "Tikota"
+        ]
+      },
+      {
+        "nameEn": "Yadgir",
+        "nameKn": "ಯಾದಗಿರಿ",
+        "nameTe": "యాద్గిరి",
+        "talukas": [
+          "Yadgir",
+          "Shahapur",
+          "Shorapur",
+          "Gurmatkal",
+          "Hunasagi",
+          "Vadagera"
+        ]
+      }
+    ],
+    "gramPanchayats": [
+      "Koppa Grama Panchayat",
+      "Mishrikoti Grama Panchayat",
+      "Huliyurdurga Grama Panchayat",
+      "Halagur Grama Panchayat",
+      "Kadur Grama Panchayat",
+      "Channapatna Grama Panchayat"
+    ]
+  },
+  "footer": {
+    "brandNameKn": "ನಮ್ಮ ಗ್ರಾಮ ನಾಯಕ",
+    "brandNameEn": "Namma Grama Nayaka",
+    "taglineKn": "ಯುವಕರೇ ಗ್ರಾಮದ ಭವಿಷ್ಯ • ಗ್ರಾಮ ಸ್ವರಾಜ್ಯ ಚಳವಳಿ",
+    "taglineEn": "Youth Must Lead • Empowering Karnataka Panchayats",
+    "descKn": "ಕರ್ನಾಟಕದ ಗ್ರಾಮ ಪಂಚಾಯತಿಗಳಲ್ಲಿ ಸಕ್ರಿಯ ಮತ್ತು ಪಾರದರ್ಶಕ ವಾರ್ಡ್ ನಾಯಕತ್ವವನ್ನು ರೂಪಿಸಲು ಯುವಕರನ್ನು ಸಂಘಟಿಸುವ ಪ್ರಜಾಸತ್ತಾತ್ಮಕ ಚಳವಳಿ.",
+    "descEn": "Empowering rural youth across Karnataka to lead transparent Ward Sabhas and drive sustainable Grama Swaraj development.",
+    "contactEmail": "yuvraj@empowerpanchayat.org",
+    "contactPhone": "+91 98450 12345",
+    "contactAddress": "Vidhana Soudha Road, Bengaluru / Karnataka Rural Leadership Hub",
+    "websiteUrl": "www.empowerpanchayat.org",
+    "quickLinks": [
+      {
+        "labelKn": "ಯೋಜನೆಯ ಬಗ್ಗೆ",
+        "labelEn": "About",
+        "href": "#about"
+      },
+      {
+        "labelKn": "ಏಕೆ ವಾರ್ಡ್ ಸದಸ್ಯ?",
+        "labelEn": "Why Ward Member?",
+        "href": "#why"
+      },
+      {
+        "labelKn": "ಕಲಿಕಾ ತರಬೇತಿ",
+        "labelEn": "Training Modules",
+        "href": "#modules"
+      },
+      {
+        "labelKn": "ನಾಯಕತ್ವ ಪಯಣ",
+        "labelEn": "Journey",
+        "href": "#journey"
+      },
+      {
+        "labelKn": "ಚಿತ್ರಸಂಪುಟ",
+        "labelEn": "Gallery",
+        "href": "#gallery"
+      },
+      {
+        "labelKn": "ಮಾಹಿತಿ center",
+        "labelEn": "FAQs",
+        "href": "#faqs"
+      },
+      {
+        "labelKn": "ನೋಂದಣಿ",
+        "labelEn": "Register",
+        "href": "#register"
+      }
+    ],
+    "copyrightKn": "© 2026 ನಮ್ಮ ಗ್ರಾಮ ನಾಯಕ. ಪ್ರಜಾಸತ್ತಾತ್ಮಕ ಪಂಚಾಯತ್ ಸಬಲೀಕರಣ ಅಭಿಯಾನ.",
+    "copyrightEn": "© 2026 Namma Grama Nayaka. Empowering Karnataka Grassroots Governance."
+  }
+}

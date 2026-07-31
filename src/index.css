@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Poppins', 'Inter', 'Noto Sans Kannada', 'Noto Sans Telugu', system-ui, sans-serif;
+  }
+
+  /* Font overrides for language specific classes */
+  .font-kannada {
+    font-family: 'Noto Sans Kannada', 'Poppins', sans-serif;
+  }
+
+  .font-telugu {
+    font-family: 'Noto Sans Telugu', 'Poppins', sans-serif;
+  }
+
+  .font-english {
+    font-family: 'Poppins', 'Inter', sans-serif;
+  }
+}
+
+/* Custom scrollbar and animations */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #fdfbf7;
+}
+::-webkit-scrollbar-thumb {
+  background: #15803d;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #166534;
+}
